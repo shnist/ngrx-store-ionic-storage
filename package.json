@@ -36,7 +36,8 @@
     "@ngrx/effects": "^4.1.1",
     "@ngrx/store": "^4.1.1",
     "rimraf": "latest",
-    "rxjs": "^5.5.2",
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3",
     "typescript": "2.4.2",
     "zone.js": "0.8.18"
   },
